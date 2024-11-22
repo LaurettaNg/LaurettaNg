@@ -8,9 +8,7 @@ Quantitative Genetics: Genetic Prediction, Breeding Value estimation, Genetic va
 
 Statistical Modeling: Bayesian statistics, Mixed models, Hypothesis testing, and Experimental design.
 
-Bioinformatics: Data analysis pipelines, genomic data processing, variant calling, and SNP analysis.
-
-Programming Languages & Tools: Python (NumPy, pandas, scikit-learn, TensorFlow), R (ggplot2, dplyr, caret), SQL, MATLAB, Git, and Jupyter Notebooks.
+Programming Languages & Tools: Python (NumPy, pandas, scikit-learn, TensorFlow), R (ggplot2, dplyr, caret), SQL, Git, and Jupyter Notebooks.
 
 # My Current Role
 
