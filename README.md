@@ -12,7 +12,7 @@ Programming Languages & Tools: Python (NumPy, pandas, scikit-learn, TensorFlow),
 
 # My Current Role
 
-Today, I leverage these skills as a **Data Scientist** at an **Telus Agriculture and Consumer Goods**, where I provide data-driven insights that help consultants make strategic recommendations, enabling our clients to optimize their operations and achieve their goals. I apply a blend of **Statistical modeling**, **Predictive analytics**, and **Machine learning** to address a variety of challenges in Animal Agriculture. 
+Today, I leverage these skills as a **Data Scientist** at **Telus Agriculture and Consumer Goods**, where I provide data-driven insights that help consultants make strategic recommendations, enabling our clients to optimize their operations and achieve their goals. I apply a blend of **Statistical modeling**, **Predictive analytics**, and **Machine learning** to address a variety of challenges in Animal Agriculture. 
 
 ### Programming Languages & Tools
 
