@@ -1,6 +1,6 @@
 # About Me
 
-With a **PhD in Animal Breeding and Genetics**, I have extensive experience working with large datasets, applying advanced statistical methods, and solving complex problems in the context of genetics and breeding. 
+With a **PhD in Animal Breeding and Quantitative Genetics**, I have extensive experience working with large datasets, applying advanced statistical methods, and solving complex problems in the context of genetics and breeding. 
 ### My areas of expertise include : 
 Data Science & Machine Learning: Predictive modeling, regression analysis, clustering, time series analysis, neural networks, and deep learning.
 
